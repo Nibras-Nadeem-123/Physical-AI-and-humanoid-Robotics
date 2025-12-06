@@ -1,0 +1,13 @@
+# Gitignore for Node.js/Docusaurus project
+
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+.env*
+
+# Docusaurus
+.docusaurus/
+build/
+.cache/

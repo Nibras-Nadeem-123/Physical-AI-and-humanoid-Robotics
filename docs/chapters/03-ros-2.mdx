@@ -1,0 +1,60 @@
+---
+id: ros2
+title: ROS 2
+sidebar_position: 3
+---
+
+# Chapter 3: ROS 2 - The Robot Operating System
+
+This chapter introduces ROS 2 (Robot Operating System 2), the next-generation framework for building robotic applications. We will cover its core concepts, architecture, and how to use it for developing robust and distributed robot software.
+
+## What is ROS 2?
+
+ROS 2 is an open-source, meta-operating system for robots. It provides a flexible framework for writing robot software, offering tools, libraries, and conventions to simplify the task of creating complex and distributed robotic systems. Building on the success of ROS 1, ROS 2 was redesigned to address the needs of modern robotics, including real-time control, multi-robot systems, and embedded platforms.
+
+## Key Concepts in ROS 2
+
+*   **Nodes**: Independent processes that perform computations (e.g., a node for camera image processing, a node for motor control).
+*   **Topics**: Named buses over which nodes exchange messages. Topics enable decoupled communication, where nodes publish data to a topic and other nodes subscribe to it.
+*   **Messages**: Data structures used to send information over topics. ROS 2 provides a rich set of standard message types.
+*   **Services**: Request/reply communication mechanisms for synchronous interactions between nodes. A client node sends a request, and a server node sends a response.
+*   **Actions**: Long-running goal-oriented tasks with feedback and preemption capabilities. Useful for complex behaviors like navigating to a goal.
+*   **Parameters**: Configuration values that can be set and retrieved by nodes at runtime.
+*   **Launch Files**: XML or Python files used to start and configure multiple ROS 2 nodes and their parameters.
+*   **Packages**: The fundamental unit of ROS 2 software organization, containing nodes, messages, services, and other resources.
+
+## ROS 2 Architecture
+
+ROS 2 utilizes a DDS (Data Distribution Service) layer for communication, offering improved real-time capabilities, reliability, and security compared to ROS 1. Key architectural features include:
+
+*   **DDS as Middleware**: Pluggable middleware layer, with `Fast-RTPS` often being the default.
+*   **Quality of Service (QoS)**: Configurable parameters for topics to control reliability, durability, and latency.
+*   **Security**: Built-in mechanisms for authentication, encryption, and access control.
+*   **Multi-robot Support**: Designed from the ground up to support multiple robots communicating in a single environment.
+
+## Getting Started with ROS 2
+
+This section will cover the basics of installing ROS 2, setting up a development environment, and running your first ROS 2 nodes. We will use practical examples to demonstrate:
+
+*   Installing a ROS 2 distribution (e.g., Humble, Iron).
+*   Creating a ROS 2 workspace.
+*   Writing a simple publisher and subscriber node in C++ or Python.
+*   Using `ros2 run` and `ros2 topic` commands for interaction.
+*   Creating launch files to orchestrate multiple nodes.
+
+## Tools and Utilities
+
+ROS 2 provides a rich set of command-line tools and graphical utilities:
+
+*   `ros2 command line tools`: For introspection, debugging, and managing nodes, topics, services, and actions.
+*   `rviz2`: A 3D visualization tool for robot state, sensor data, and path planning.
+*   `rqt_graph`: A tool for visualizing the ROS 2 computation graph.
+*   `plot_ros`: For plotting topic data.
+
+## Best Practices for ROS 2 Development
+
+*   **Modular Design**: Break down robot functionality into small, independent nodes.
+*   **Message Design**: Use appropriate message types and define custom messages when necessary.
+*   **QoS Profiles**: Select suitable QoS settings for different communication needs.
+*   **Testing**: Write unit and integration tests for ROS 2 nodes.
+*   **Debugging**: Utilize ROS 2 introspection tools for troubleshooting.

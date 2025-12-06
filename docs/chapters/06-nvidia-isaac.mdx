@@ -1,0 +1,57 @@
+---
+id: nvidia-isaac
+title: NVIDIA Isaac
+sidebar_position: 6
+---
+
+# Chapter 6: NVIDIA Isaac - Platform for AI-Driven Robotics
+
+This chapter introduces NVIDIA Isaac, a comprehensive platform for developing, simulating, and deploying AI-powered robots. We will explore Isaac Sim for high-fidelity simulation and Isaac SDK for robot perception, navigation, and manipulation.
+
+## Introduction to NVIDIA Isaac
+
+NVIDIA Isaac is a powerful platform designed to accelerate the development of robotics applications. It encompasses two main components:
+
+1.  **Isaac Sim**: A robotics simulation application built on NVIDIA Omniverse, providing a high-fidelity, physically accurate virtual environment for training and testing robots.
+2.  **Isaac SDK**: A collection of tools, libraries, and frameworks for building AI-driven robot applications, focusing on perception, navigation, and manipulation.
+
+## Isaac Sim: High-Fidelity Simulation
+
+Isaac Sim, built on NVIDIA Omniverse, offers a collaborative platform for creating large-scale, physically accurate robot simulations. Key features include:
+
+*   **PhysX Integration**: Utilizes NVIDIA PhysX 5.0 for realistic physics simulations.
+*   **RTX Real-time Ray Tracing**: Provides photorealistic rendering for realistic sensor data generation.
+*   **Synthetic Data Generation**: Generates high-quality synthetic data for training deep learning models, bridging the sim-to-real gap.
+*   **ROS 2 and NVIDIA JetPack Integration**: Seamless integration with ROS 2 and NVIDIA Jetson platforms.
+*   **USD (Universal Scene Description)**: A powerful, extensible scene description format for interchanging 3D data.
+*   **Reinforcement Learning (RL)**: Tools and examples for training RL agents in simulation.
+
+## Isaac SDK: Robot Development Framework
+
+Isaac SDK provides a modular framework for building robotics applications. It includes:
+
+*   **GEMs (GPU-Enabled Modules)**: Optimized algorithms for perception (e.g., visual SLAM, object detection), navigation (e.g., path planning, obstacle avoidance), and manipulation (e.g., inverse kinematics, grasping).
+*   **Graph-based Programming**: A visual programming interface for connecting GEMs and building complex robot behaviors.
+*   **ROS 2 Bridge**: Enables communication between Isaac SDK applications and ROS 2 ecosystems.
+*   **Hardware Abstraction**: Provides interfaces for various sensors and actuators.
+*   **Deployment**: Tools for deploying AI models and applications to NVIDIA Jetson edge devices.
+
+## Developing with Isaac Sim and ROS 2
+
+We will cover practical examples of using Isaac Sim with ROS 2:
+
+*   **Setting up Isaac Sim**: Installation and configuration of the simulation environment.
+*   **Importing Robot Models**: Importing URDF or USD robot models into Isaac Sim.
+*   **Sensor Configuration**: Setting up virtual cameras, LIDAR, and other sensors for data generation.
+*   **ROS 2 Bridge**: Configuring communication between Isaac Sim and external ROS 2 nodes.
+*   **Teleoperation in Sim**: Controlling simulated robots via ROS 2 commands.
+*   **Synthetic Data Generation for ML**: Using Isaac Sim to create datasets for training object detectors or segmentation models.
+
+## Isaac SDK Application Development
+
+This section will focus on building applications with Isaac SDK:
+
+*   **Creating a Graph**: Designing a perception-to-action pipeline using GEMs.
+*   **Custom GEMs**: Developing custom modules for specialized functionalities.
+*   **Deployment to Jetson**: Packaging and deploying Isaac SDK applications to NVIDIA Jetson hardware.
+*   **Robot Navigation**: Implementing autonomous navigation capabilities using Isaac SDK's navigation stack.
