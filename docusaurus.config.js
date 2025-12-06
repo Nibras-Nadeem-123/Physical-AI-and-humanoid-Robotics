@@ -11,7 +11,7 @@ const config = {
   url: 'https://physical-ai.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/physical-ai-and-humanoid-robotic-textbook/',
 
   // GitHub pages deployment config.
   organizationName: 'ai-driven-development',

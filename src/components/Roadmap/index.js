@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './styles.module.css';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const chapters = [
   { title: 'Introduction', description: 'The big picture of Physical AI.', link: '/docs/chapters/01-introduction' },
@@ -17,6 +18,7 @@ const chapters = [
 ];
 
 export function Roadmap() {
+  const baseUrl = useBaseUrl('/');
   return (
     <div className={styles.roadmapContainer}>
       <h2 className={styles.roadmapTitle}>Learning Roadmap</h2>
@@ -27,7 +29,7 @@ export function Roadmap() {
             <div className={styles.chapterDetails}>
               <h3 className={styles.chapterTitle}>{chapter.title}</h3>
               <p className={styles.chapterDescription}>{chapter.description}</p>
-              <a href={chapter.link} className={styles.chapterLink}>
+              <a href={baseUrl + chapter.link.substring(1)} className={styles.chapterLink}>
                 Read Chapter
               </a>
             </div>
