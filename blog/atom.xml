@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog</id>
+    <title>Physical AI &amp; Humanoid Robotics Blog</title>
+    <updated>2025-12-19T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog"/>
+    <subtitle>Physical AI &amp; Humanoid Robotics Blog</subtitle>
+    <icon>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/img/logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[The Future of Work in the Age of AI]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/future-of-work-age-of-ai</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/future-of-work-age-of-ai"/>
+        <updated>2025-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about The Future of Work in the Age of AI.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>The Future of Work in the Age of AI</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swarm Robotics: A Collective Intelligence]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/swarm-robotics-collective-intelligence</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/swarm-robotics-collective-intelligence"/>
+        <updated>2025-12-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about Swarm Robotics: A Collective Intelligence.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>Swarm Robotics: A Collective Intelligence</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of AI in Autonomous Vehicles]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/ai-in-autonomous-vehicles</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/ai-in-autonomous-vehicles"/>
+        <updated>2025-12-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about The Role of AI in Autonomous Vehicles.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>The Role of AI in Autonomous Vehicles</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human-Robot Interaction]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/human-robot-interaction</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/human-robot-interaction"/>
+        <updated>2025-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about Human-Robot Interaction.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>Human-Robot Interaction</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ethics of Artificial Intelligence]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/ethics-of-ai</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/ethics-of-ai"/>
+        <updated>2025-12-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about The Ethics of Artificial Intelligence.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>The Ethics of Artificial Intelligence</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinforcement Learning in Robotics]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/reinforcement-learning-robotics</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/reinforcement-learning-robotics"/>
+        <updated>2025-12-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about Reinforcement Learning in Robotics.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>Reinforcement Learning in Robotics</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Natural Language Processing Explained]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/natural-language-processing-explained</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/natural-language-processing-explained"/>
+        <updated>2025-12-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about Natural Language Processing Explained.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>Natural Language Processing Explained</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Vision: The Eyes of AI]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/computer-vision-eyes-of-ai</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/computer-vision-eyes-of-ai"/>
+        <updated>2025-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about Computer Vision: The Eyes of AI.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>Computer Vision: The Eyes of AI</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Networks and Deep Learning]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/neural-networks-deep-learning</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/neural-networks-deep-learning"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about Neural Networks and Deep Learning.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>Neural Networks and Deep Learning</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in Healthcare: A Revolution]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/ai-in-healthcare-revolution</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/ai-in-healthcare-revolution"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about AI in Healthcare: A Revolution.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>AI in Healthcare: A Revolution</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotic Process Automation (RPA)]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/robotic-process-automation</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/robotic-process-automation"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about Robotic Process Automation (RPA).]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>Robotic Process Automation (RPA)</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Internet of Things (IoT) and Robotics]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/iot-and-robotics</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/iot-and-robotics"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about The Internet of Things (IoT) and Robotics.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>The Internet of Things (IoT) and Robotics</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Powered Drug Discovery]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/ai-powered-drug-discovery</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/ai-powered-drug-discovery"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about AI-Powered Drug Discovery.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>AI-Powered Drug Discovery</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Humanoid Robots]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/future-of-humanoid-robots</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/future-of-humanoid-robots"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about The Future of Humanoid Robots.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>The Future of Humanoid Robots</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Computing and AI]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/quantum-computing-and-ai</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/quantum-computing-and-ai"/>
+        <updated>2025-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog post about Quantum Computing and AI.]]></summary>
+        <content type="html"><![CDATA[<p>This is a blog post about <strong>Quantum Computing and AI</strong>.</p><p>Here is an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="robotics" term="robotics"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Robotics]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/the-future-of-robotics</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/the-future-of-robotics"/>
+        <updated>2025-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A look into the exciting future of robotics and its potential to reshape our world.]]></summary>
+        <content type="html"><![CDATA[<p>Robotics is a field that has long captured the human imagination. Today, we are on the cusp of a robotics revolution, with advancements in AI, materials science, and engineering converging to create more capable and autonomous robots than ever before.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="robotics-in-the-real-world">Robotics in the Real World<a href="#robotics-in-the-real-world" class="hash-link" aria-label="Direct link to Robotics in the Real World" title="Direct link to Robotics in the Real World">​</a></h2><p>Robots are no longer confined to factory floors. They are now being used in a wide range of applications:</p><ul><li><strong>Logistics:</strong> Autonomous mobile robots are a common sight in warehouses, where they help to automate the process of sorting and transporting goods.</li><li><strong>Healthcare:</strong> Surgical robots are assisting surgeons with complex procedures, leading to better patient outcomes.</li><li><strong>Exploration:</strong> Robots are being sent to explore environments that are too dangerous for humans, such as the deep sea and other planets.</li></ul><p>Here's an interactive element to demonstrate the power of simple components:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="robotics" term="robotics"/>
+        <category label="automation" term="automation"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise of Artificial Intelligence]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/the-rise-of-ai</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/the-rise-of-ai"/>
+        <updated>2025-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Exploring the rapid advancements and future implications of AI.]]></summary>
+        <content type="html"><![CDATA[<p>Artificial Intelligence (AI) is transforming our world at an unprecedented pace. From machine learning models that can predict weather patterns to natural language processing that powers virtual assistants, AI is no longer a concept of science fiction—it's a part of our daily lives.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-impact-of-ai">The Impact of AI<a href="#the-impact-of-ai" class="hash-link" aria-label="Direct link to The Impact of AI" title="Direct link to The Impact of AI">​</a></h2><p>AI is already making a significant impact across various industries:</p><ul><li><strong>Healthcare:</strong> AI is being used to diagnose diseases earlier and more accurately, personalize treatment plans, and accelerate drug discovery.</li><li><strong>Finance:</strong> AI algorithms are used for fraud detection, algorithmic trading, and credit scoring.</li><li><strong>Transportation:</strong> Self-driving cars are one of the most visible applications of AI, promising to revolutionize how we travel.</li></ul><p>Here's an interactive element to demonstrate the power of simple components:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="ai" term="ai"/>
+        <category label="machine-learning" term="machine-learning"/>
+        <category label="technology" term="technology"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My First Blog Post]]></title>
+        <id>https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/my-first-blog-post</id>
+        <link href="https://nibras-nadeem-123.github.io/Physical-AI-and-humanoid-Robotics/blog/my-first-blog-post"/>
+        <updated>2025-12-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my first blog post.]]></summary>
+        <content type="html"><![CDATA[<p>This is the content of my first blog post. I'm excited to share my thoughts and ideas here!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="subheading">Subheading<a href="#subheading" class="hash-link" aria-label="Direct link to Subheading" title="Direct link to Subheading">​</a></h2><p>Here's an interactive counter:</p><div><p>You clicked <!-- -->0<!-- --> times</p><button>Click me</button></div><p>Here's some more content under a subheading.</p><div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token console class-name">console</span><span class="token punctuation" style="color:rgb(248, 248, 242)">.</span><span class="token method function property-access" style="color:rgb(80, 250, 123)">log</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token string" style="color:rgb(255, 121, 198)">'Hello, Docusaurus Blog!'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content>
+        <author>
+            <name>Nibras Nadeem</name>
+            <uri>https://github.com/nibras-nadeem-123</uri>
+        </author>
+        <category label="docusaurus" term="docusaurus"/>
+        <category label="hello" term="hello"/>
+    </entry>
+</feed>

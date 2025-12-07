@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkphysical_ai_and_humanoid_robotic_textbook=globalThis.webpackChunkphysical_ai_and_humanoid_robotic_textbook||[]).push([[3148],{9052:a=>{a.exports=JSON.parse('{"label":"automation","permalink":"/Physical-AI-and-humanoid-Robotics/blog/tags/automation","allTagsPath":"/Physical-AI-and-humanoid-Robotics/blog/tags","count":1}')}}]);
