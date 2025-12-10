@@ -1,0 +1,49 @@
+openapi: 3.0.0
+info:
+  title: RAG Chatbot API
+  version: 1.0.0
+paths:
+  /chat:
+    post:
+      summary: Send a chat message
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ChatRequest'
+      responses:
+        '200':
+          description: A successful response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ChatResponse'
+components:
+  schemas:
+    ChatRequest:
+      type: object
+      properties:
+        session_id:
+          type: string
+          description: A unique identifier for the conversation session. If not provided, a new session is created.
+        query:
+          type: string
+          description: The user's question.
+        selected_text:
+          type: string
+          description: The text highlighted by the user.
+    ChatResponse:
+      type: object
+      properties:
+        session_id:
+          type: string
+          description: A unique identifier for the conversation session.
+        response:
+          type: string
+          description: The chatbot's answer.
+        sources:
+          type: array
+          items:
+            type: string
+          description: A list of sources from the book that were used to generate the answer.

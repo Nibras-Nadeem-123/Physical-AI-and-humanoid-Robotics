@@ -11,3 +11,11 @@ build/
 .docusaurus/
 build/
 .cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/

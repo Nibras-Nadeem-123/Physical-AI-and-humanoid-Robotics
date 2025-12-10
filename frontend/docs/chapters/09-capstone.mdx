@@ -1,0 +1,40 @@
+---
+id: 09-capstone
+title: "Capstone Project: Humanoid Teleoperation"
+sidebar_label: "Capstone Project"
+---
+
+# Chapter 9: Capstone Project: Humanoid Teleoperation
+
+This chapter brings together everything you have learned in the book. You will build a complete software system to control a humanoid robot in a simulated environment to perform a useful task.
+
+## 9.1 Project Goal: Warehouse Assistant
+
+The goal of the capstone project is to have a simulated humanoid robot act as a warehouse assistant. The robot will need to be able to:
+1.  Navigate to a designated shelf.
+2.  Identify and pick up a specific box.
+3.  Carry the box to a delivery area.
+4.  Place the box on a table.
+
+This task requires the integration of navigation, perception, and manipulation.
+
+## 9.2 System Architecture
+
+We will design the system architecture using ROS 2. This will involve creating a set of interconnected nodes for:
+- **Navigation:** Using the Nav2 stack to move the robot around the warehouse.
+- **Perception:** Using a simulated camera and an object detection model to find the target box.
+- **Manipulation:** Using MoveIt 2 to plan and execute the picking and placing motions.
+- **State Machine:** A top-level node to coordinate the overall behavior of the robot.
+
+## 9.3 Implementation Step-by-Step
+
+This section provides a detailed, step-by-step guide to implementing the project:
+1.  **Setting up the Simulation:** We'll create a warehouse environment in Isaac Sim and import a humanoid robot model.
+2.  **Configuring Nav2:** You'll learn how to configure the ROS 2 Navigation stack for a bipedal robot.
+3.  **Configuring MoveIt 2:** You'll create a MoveIt configuration package for the humanoid's arms.
+4.  **Writing the Perception Node:** You'll write a ROS 2 node that subscribes to camera images, runs a simple object detector, and publishes the location of the target box.
+5.  **Writing the Main Control Node:** You'll implement the state machine that calls the other components (Nav2, MoveIt) to execute the task.
+
+## 9.4 Running the System
+
+After implementing all the components, you will run the entire system using a ROS 2 launch file. You'll be able to watch your humanoid robot autonomously perform the warehouse task from start to finish. This project will serve as a powerful portfolio piece and a demonstration of your skills in humanoid robotics.

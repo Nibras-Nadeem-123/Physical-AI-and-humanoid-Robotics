@@ -1,0 +1,37 @@
+---
+id: 04-gazebo
+title: "Simulating Robots with Gazebo"
+sidebar_label: "Gazebo Simulation"
+---
+
+# Chapter 4: Simulating Robots with Gazebo
+
+Simulation is a critical tool in robotics, allowing for rapid development, testing, and validation without the need for physical hardware. This chapter focuses on Gazebo, a powerful and widely-used open-source robotics simulator.
+
+## 4.1 Introduction to Gazebo
+
+We'll introduce the Gazebo simulator, its architecture, and its capabilities. You'll learn about the difference between the Gazebo client and server, and how to interact with a simulated world.
+
+## 4.2 Building a World
+
+A simulation is only as good as its environment. This section guides you through the process of creating a custom world in Gazebo, including:
+- Adding simple shapes (boxes, spheres, cylinders).
+- Using pre-built models from the Gazebo Fuel server.
+- Modifying lighting and physics properties.
+
+## 4.3 Spawning a Robot
+
+You will learn how to take the URDF model created in the previous chapter and spawn it into your Gazebo world. We will cover the `ros_gz_bridge` for connecting ROS 2 with Gazebo.
+
+## 4.4 Sensors in Gazebo
+
+This section covers how to add and configure simulated sensors to your robot model, including:
+- Cameras (standard, depth)
+- LiDAR and other range sensors
+- Inertial Measurement Units (IMUs)
+
+You'll learn how these sensors publish data to ROS 2 topics, allowing you to "see" the simulated world from the robot's perspective.
+
+## 4.5 Plugins for Actuators and Control
+
+To make the robot move, we need to apply forces and torques to its joints. You will learn how to use Gazebo plugins, specifically the `gz_ros2_control` plugin, to connect your robot's joints to a ROS 2 control system.

@@ -1,0 +1,36 @@
+---
+id: 07-vla
+title: "Vision-Language-Action Models (VLAs)"
+sidebar_label: "VLA Models"
+---
+
+# Chapter 7: Vision-Language-Action Models (VLAs)
+
+Vision-Language-Action (VLA) models represent the cutting edge of AI for robotics, enabling robots to understand and execute high-level, natural language commands. This chapter delves into the architecture and application of these powerful "robot brain" models.
+
+## 7.1 The Convergence of Vision, Language, and Action
+
+We explore the motivation behind VLAs. By grounding large language models (LLMs) in visual data and robotic actions, we can create systems that have a much deeper, more functional understanding of the world.
+
+## 7.2 Architecture of a VLA
+
+This section breaks down the typical components of a VLA:
+- **Vision Encoder:** A model (like ViT) that processes camera input and extracts visual features.
+- **Language Encoder:** A model that processes the text-based command.
+- **Fusion Layer:** A mechanism (e.g., cross-attention) that combines the vision and language features.
+- **Action Decoder:** A policy network that outputs the low-level motor commands (e.g., joint torques or end-effector poses) based on the fused representation.
+
+## 7.3 Training VLAs: From Imitation to Reinforcement
+
+Training these large models is a significant challenge. We will discuss the primary methods:
+- **Behavioral Cloning (Imitation Learning):** Training the model on large datasets of human teleoperated demonstrations.
+- **Reinforcement Learning from Human Feedback (RLHF):** Fine-tuning the model based on human preferences for different robot behaviors.
+- **Sim-to-Real Transfer:** Pre-training the model in simulation and then fine-tuning it on a smaller amount of real-world data.
+
+## 7.4 RT-1, RT-2, and the Transformer Revolution in Robotics
+
+We will study influential VLA architectures from Google DeepMind, such as RT-1 and RT-2. We'll examine how the transformer architecture, originally developed for natural language processing, has been adapted to process sequences of sensor data and output sequences of actions.
+
+## 7.5 Practical Implementation: Running a Pre-trained VLA
+
+This section will guide you through the process of downloading a pre-trained VLA and integrating it with your ROS 2-based robot control system. You'll be able to give your simulated robot natural language commands like "pick up the red block" and see it execute the task.

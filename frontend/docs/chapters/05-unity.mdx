@@ -1,0 +1,36 @@
+---
+id: 05-unity
+title: "Advanced Simulation with Unity"
+sidebar_label: "Unity Simulation"
+---
+
+# Chapter 5: Advanced Simulation with Unity
+
+While Gazebo is powerful, game engines like Unity offer superior graphics, performance, and a rich ecosystem of assets. This chapter explores how to leverage Unity for photorealistic robotics simulation.
+
+## 5.1 Why Unity for Robotics?
+
+We discuss the advantages of using a professional game engine for simulation, including:
+- High-fidelity rendering for training vision-based AI.
+- Advanced physics engines.
+- A vast asset store for creating complex environments quickly.
+- C# scripting for complex simulation logic.
+
+## 5.2 Setting up the Unity Robotics Hub
+
+Unity provides a set of official packages, known as the Robotics Hub, to facilitate ROS 2 integration. This section provides a step-by-step guide to setting up a Unity project for robotics simulation.
+
+## 5.3 Importing and Configuring a Robot
+
+You will learn how to import a URDF or SDF model into Unity and configure its articulations (joints) using the ArticulationBody component for realistic physics simulation.
+
+## 5.4 ROS-Unity Communication
+
+This section covers the specifics of connecting your Unity simulation to a ROS 2 network. You will learn how to:
+- Publish sensor data from Unity to ROS 2 topics.
+- Subscribe to ROS 2 topics to control the robot in Unity.
+- Implement ROS 2 services and actions.
+
+## 5.5 Creating Realistic Sensor Data
+
+A key advantage of Unity is its ability to generate photorealistic sensor data. We will explore techniques for creating realistic camera images, including post-processing effects, and how this data can be used to train robust perception models. This is particularly important for sim-to-real transfer.

@@ -208,3 +208,9 @@ Wait for consent; never auto-create ADRs. Group related decisions (stacks, authe
 
 ## Code Standards
 See `.specify/memory/constitution.md` for code quality, testing, performance, security, and architecture principles.
+
+## Active Technologies
+- Python 3.11, Node.js 20.x (001-rag-chatbot-fastapi)
+
+## Recent Changes
+- 001-rag-chatbot-fastapi: Added Python 3.11, Node.js 20.x

@@ -1,0 +1,38 @@
+---
+id: 10-hardware
+title: "From Simulation to Reality: Hardware and Tools"
+sidebar_label: "Hardware and Tools"
+---
+
+# Chapter 10: From Simulation to Reality: Hardware and Tools
+
+This chapter bridges the gap between simulation and the real world. We discuss the hardware components that make up a physical robot, the challenges of sim-to-real transfer, and the tools used in a robotics lab.
+
+## 10.1 The Hardware Stack
+
+We'll dissect the physical components of a typical humanoid robot:
+- **Compute:** From microcontrollers for low-level motor control to powerful onboard computers (like NVIDIA Jetson) for running AI models.
+- **Sensors:** A detailed look at the real-world versions of the sensors we simulated, including stereo cameras, LiDARs, IMUs, and force-torque sensors.
+- **Actuators:** An overview of different motor types (servo, stepper, brushless DC) and the role of gearboxes and transmissions.
+- **Power Systems:** The critical, and often overlooked, role of batteries and power management.
+
+## 10.2 The Sim-to-Real Gap
+
+Why do behaviors that work perfectly in simulation often fail in the real world? This section explores the "sim-to-real gap" and the techniques used to cross it:
+- **System Identification:** The process of building an accurate model of your real robot to use in simulation.
+- **Domain Randomization:** A technique where you randomize the parameters of your simulation (e.g., lighting, friction, colors) to force your AI model to learn more robust features that are more likely to transfer to the real world.
+- **Fine-tuning:** Taking a model pre-trained in simulation and continuing its training on a small amount of real-world data.
+
+## 10.3 Essential Lab Equipment
+
+Building and working with robots requires a variety of tools. This section provides an overview of a well-equipped robotics lab, including:
+- **3D Printers:** For rapid prototyping of custom parts.
+- **Electronics Workbench:** Soldering irons, oscilloscopes, and multimeters for working with custom electronics.
+- **Motion Capture Systems:** For ground-truth tracking of robot performance.
+
+## 10.4 Safety First: E-Stops and Best Practices
+
+Working with powerful robots can be dangerous. This section covers the critical topic of safety, including:
+- **Emergency Stops (E-Stops):** Both hardware and software e-stops.
+- **Workspace Safety:** Best practices for keeping the development team safe during robot operation.
+- **Ethical Considerations:** A discussion of the ethical responsibilities of a robotics engineer.

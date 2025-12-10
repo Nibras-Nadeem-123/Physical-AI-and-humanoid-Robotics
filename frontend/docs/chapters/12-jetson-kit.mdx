@@ -1,0 +1,45 @@
+---
+id: 12-jetson-kit
+title: "Getting Started with the Jetson AI Kit"
+sidebar_label: "Jetson AI Kit"
+---
+
+# Chapter 12: Getting Started with the Jetson AI Kit
+
+This chapter provides a hands-on introduction to the NVIDIA Jetson platform, a powerful and compact series of computers designed to bring AI and deep learning to edge devices like robots.
+
+## 12.1 What is NVIDIA Jetson?
+
+An overview of the Jetson family (including the Jetson Nano, Orin Nano, and AGX Orin). We'll discuss why these devices are ideal for robotics, combining a powerful GPU for AI inference with a CPU for general-purpose computing and a rich set of I/O.
+
+## 12.2 Setting up Your Jetson Developer Kit
+
+This section is a step-by-step tutorial for getting your Jetson device ready for development:
+1.  **Flashing the OS:** How to flash the NVIDIA JetPack SDK onto an SD card or the internal eMMC.
+2.  **First Boot and Setup:** Initial configuration of the operating system.
+3.  **Installing Essential Software:** Setting up ROS 2, and other key libraries.
+
+## 12.3 Running Your First AI Model
+
+The power of the Jetson lies in its GPU. You will learn how to:
+- Use the pre-trained models included with the JetPack SDK for tasks like image classification and object detection.
+- Run these models on a live camera feed using the `jetson-inference` library.
+- Understand the performance characteristics of your Jetson device.
+
+## 12.4 Integrating Jetson with ROS 2
+
+This section shows you how to create a ROS 2 node that leverages the Jetson's GPU. You will write a simple perception node that:
+1.  Captures images from a USB camera.
+2.  Runs an object detection model on the GPU.
+3.  Publishes the results (bounding boxes and class labels) to a ROS 2 topic.
+
+This forms the basis of a real-world perception system for a robot.
+
+## 12.5 Next Steps and Further Learning
+
+The Jetson platform is incredibly deep. This final section provides a roadmap for your continued learning, pointing you to resources for:
+- Training your own custom AI models with NVIDIA TAO.
+- Optimizing model performance with TensorRT.
+- Building more complex robotics projects with the Isaac ROS stack.
+
+Congratulations on completing the foundational journey into Physical AI and Humanoid Robotics!
